@@ -1,0 +1,9 @@
+{
+	"name": "Vikramazuredatafactory2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "96cddb8a-6553-45c2-a147-b181cb102327",
+		"tenantId": "a3d6eda8-3636-4635-b540-176b1d64720d"
+	}
+}
