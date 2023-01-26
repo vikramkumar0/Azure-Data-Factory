@@ -6,7 +6,7 @@
 		"type": "AzureBlobStorage",
 		"typeProperties": {
 			"connectionString": "DefaultEndpointsProtocol=https;AccountName=vikramazureadlsgen2;EndpointSuffix=core.windows.net;",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEE1QjJDNzU2LTE4OTctNEU5MS05MTUxLTNFNEMzNjYxM0IyNl9iZmI0ZjE2NS02OWE5LTQ5NWUtYjllYS03MGM0YTYxYWM5MDciDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEE1QjJDNzU2LTE4OTctNEU5MS05MTUxLTNFNEMzNjYxM0IyNl8xN2EwN2M4Zi0xOThjLTQ3NGUtODI5Ni0xYjkyYTJhZTdmZWYiDQp9"
 		}
 	}
 }
